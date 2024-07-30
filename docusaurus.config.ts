@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://docs.ramlasolutions.com',
-  baseUrl: '/',
+  baseUrl: '/ramla-docs/',
 
   organizationName: 'ramla',
   projectName: 'ramla-docs', 
