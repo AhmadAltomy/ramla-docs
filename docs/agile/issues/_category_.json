@@ -1,0 +1,10 @@
+{
+    "position": 2,
+    "label": "Issues",
+    "collapsible": false,
+    "link": {
+        "type": "generated-index",
+        "title": "Issues",
+        "description": "Jira issues types, and templates."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "position": 3,
+    "label": "Workflows",
+    "collapsible": false,
+    "link": {
+        "type": "generated-index",
+        "title": "Workflows",
+        "description": "Jira workflows, and templates."
+    }
+}
