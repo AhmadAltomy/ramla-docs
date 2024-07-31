@@ -9,28 +9,28 @@ Todo list for completing the documentations.
 ## Sprint Timeline
 
 - [x] Define the sprint timeline.
-- [ ] Define the sprint planning process.
-- [ ] Define the sprint review process.
-- [ ] Define the sprint retrospective process.
-- [ ] Define the sprint closure process.
+- [x] Define the sprint planning process.
+- [x] Define the sprint review process.
+- [x] Define the sprint retrospective process.
+- [x] Define the sprint closure process.
 
 ## Git
 
-- [ ] Define the branching strategy.
-- [ ] Define the commit message format.
-- [ ] Define the pull request process.
-- [ ] Define the code review process.
-- [ ] Define the release process.
+- [x] Define the branching strategy.
+- [x] Define the commit message format.
+- [x] Define the pull request process.
+- [x] Define the code review process.
+- [x] Define the release process.
 
 ## Estimations
 
-- [ ] Define the estimation strategy.
-- [ ] Set up the estimation fields.
-- [ ] Define the estimation scales.
-- [ ] Update the estimation documentation.
+- [x] Define the estimation strategy.
+- [x] Set up the estimation fields.
+- [x] Define the estimation scales.
+- [x] Update the estimation documentation.
 
 ## Versioning and Release
 
-- [ ] Define the versioning strategy.
-- [ ] Define the release strategy.
-- [ ] Update the release documentation.
+- [x] Define the versioning strategy.
+- [x] Define the release strategy.
+- [x] Update the release documentation.
